@@ -1,9 +1,9 @@
-<<<<<<< HEAD
-# 🎯 CodeMentor
+
+# CodeMentor
 
 CodeMentor is an AI-powered coding assistant that helps developers write better code by providing code reviews, best practices, and optimization suggestions.
 
-## ✨ Features
+##  Features
 
 - 🤖 AI-powered code analysis and suggestions
 - 📝 Code review and best practices recommendations
@@ -12,7 +12,7 @@ CodeMentor is an AI-powered coding assistant that helps developers write better 
 - 💡 Interactive chat interface
 - 🔒 Security best practices guidance
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -47,7 +47,7 @@ python code_mentor/comentor.py
 
 The application will be available at `http://localhost:7861`
 
-## 💻 Usage
+##  Usage
 
 1. Open your web browser and navigate to `http://localhost:7861`
 2. Start a conversation by:
@@ -70,25 +70,9 @@ The application will be available at `http://localhost:7861`
 - Supports multiple programming languages
 - Interactive chat interface for easy communication
 
-## 📝 Environment Variables
 
-| Variable | Description |
-|----------|-------------|
-| `REPLICATE_API_TOKEN` | Your Replicate API token for accessing the AI model |
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
 
 - [Replicate](https://replicate.com) for providing the AI model API
 - [Gradio](https://gradio.app) for the web interface framework
 - [Claude 3.5 Sonnet](https://www.anthropic.com/claude) for the AI capabilities 
-=======
-﻿# CodiX---Code-Assistance
->>>>>>> 0175bded8114283532e98ced436f43ad15de9c45
+
