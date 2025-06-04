@@ -1,14 +1,9 @@
 
-# 🎯 CodeMentor
+#  CodeMentor
 
 CodeMentor is an AI-powered coding assistant that helps developers write better code by providing code reviews, best practices, and optimization suggestions.
 
-## ✨ Features
-=======
 
-# CodeMentor
-
-CodeMentor is an AI-powered coding assistant that helps developers write better code by providing code reviews, best practices, and optimization suggestions.
 
 ##  Features
 
@@ -20,10 +15,6 @@ CodeMentor is an AI-powered coding assistant that helps developers write better 
 - 🔒 Security best practices guidance
 
 
-##  Getting Started
-
-##  Getting Started
->>>>>>> 2924e6dc37bd7a85e3dfd7b2761cfe047e587423
 
 ### Prerequisites
 
